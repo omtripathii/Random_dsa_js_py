@@ -27,11 +27,6 @@
 # c
 # 6
 
-
-
-
-
-
 n = int(input())  # Number of teams
 freq = {}  # Dictionary to store team points
 
